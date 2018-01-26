@@ -1,0 +1,99 @@
+div {
+  border-radius: 4px;
+}
+
+.explore img {
+  width: 96px;
+  height: 72px;
+}
+
+.explore span {
+  position: absolute;
+  margin: 30px 0px 50px 25px;
+}
+
+.explore {
+  display: inline-block;
+  width: 305px;
+  height: 72px;
+  border: 1px solid lightgrey;
+  margin: 0px 5px;
+}
+
+.experiences {
+  display: inline-block;
+  margin: 0px 10px;
+}
+
+.main {
+  color: #f26f6f;
+  font-size: 50px;
+}
+
+.tagline {
+  color: #474444;
+  font-size: 35px;
+  font-weight: 200px;
+  font-family: 'Roboto', sans-serif;
+}
+
+input {
+  width: 800px;
+  height: 50px;
+}
+
+button {
+  background-color: #f26f6f;
+  height: 40px;
+  width: 70px;
+  color: white;
+  border-radius: 5px;
+  position: absolute;
+  margin-left: -80px;
+  margin-top: 6px;
+}
+
+.nav-link {
+  float: right;
+  margin: 30px 10px;
+}
+
+.nav-link:hover {
+  text-decoration: underline;
+}
+
+.logo {
+  width: 50px;
+  height: 34px;
+  margin-top: 30px;
+}
+
+.stars {
+  width: 100px;
+  height: 22px;
+}
+
+.nature {
+  width: 246px;
+  height: 164px;
+  border-radius: 3px;
+}
+
+.content {
+  margin-left: 100px;
+}
+
+input::placeholder {
+  font-size: 15px;
+}
+
+.bar {
+  margin-bottom: 200px;
+  margin-left: 50px;
+}
+
+input {
+  box-shadow: 10px 10px 5px lightgrey;
+  border: 1px solid lightgrey;
+  border-radius: 4px;
+}
